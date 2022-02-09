@@ -1,4 +1,4 @@
-> \mielston_03_css_frameworks\mod14_day_021_ecommerce_landing_page_using_bootstrap\panda-commerce-bootstrap
+> D:\Programming\Web_Development\mielston_05_integrate_javaScript\mod25-5_day_038_HTML_CSS_DOM_revision\panda-commerce-bootstrap-DOM-Event-practice
 
 # panda-commerce-bootstrap-DOM-Event-practice
 
